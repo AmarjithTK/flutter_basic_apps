@@ -1,22 +1,21 @@
-# This repo contains the source code of all projects done by me as part of Flutter Mastery Course by Angela Yu ( londonappbrewery )
+## This repo contains the source code of all projects done by me as part of Flutter Mastery Course by Angela Yu ( londonappbrewery )
 
 
 
-## List of Apps
+### List of Apps
 
-
-  I am rich app
-  I am poor app
-  Micard CV app
-  Dicee dice rolling app
-  MagicBall challenge app
-  Xylophone app
-  Quizzler app
-  Destiny app
+  * I am rich app
+  * I am poor app
+  * Micard CV app
+  * Dicee dice rolling app
+  * MagicBall challenge app
+  * Xylophone app
+  * Quizzler app
+  * Destiny app
   
   
 
-## Goals for flutter
+### Goals for flutter
 
    1) Alarm,Timer,clock for linux with proper notifications when time up ,etc
    2) Meaty mushrooms app
