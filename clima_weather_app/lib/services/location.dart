@@ -4,7 +4,7 @@ import 'package:linuxclock/services/networking.dart';
 import 'dart:async';
 
 class LocProvider {
-  String apikey = 'ceb136a127a42a0e8c1d341e302161a0';
+  String apikey = '<add your key here>';
 
   NetworkHelper networkHelper = NetworkHelper();
 
